@@ -6,11 +6,11 @@
 
 **Project Manager:** Valeriia Bovsunovska  
 
-**1. Project Overview**
+**1. Project Overview**  
 The Task Manager App is designed to provide a streamlined, intuitive interface for individuals and small teams to organize daily workflows. 
 The project aims to bridge the gap between overly complex enterprise tools and basic to-do lists by focusing on high-performance
 task tracking and clear priority visualization.  
-**2. Project Objectives**
+**2. Project Objectives**  
 Efficiency: Enable users to create and categorize tasks in under 5 seconds.
 Organization: Implement a robust labeling and priority system (Low, Medium, High).
 Tracking: Provide visual progress indicators for ongoing projects.
