@@ -16,26 +16,21 @@ Organization: Implement a robust labeling and priority system (Low, Medium, High
 Tracking: Provide visual progress indicators for ongoing projects.
 Accessibility: Ensure a responsive design compatible with both desktop and mobile browsers.  
 **3. Scope Statement**  
-In-Scope
-User Authentication (Sign-up/Login).
-Task CRUD operations (Create, Read, Update, Delete).
-Priority leveling and due-date assignments.
-Category/Project grouping.
-Search and filter functionality.
-Out-of-Scope
-Real-time collaborative editing (Phase 2).
-Third-party calendar integrations (Google/Outlook).
+In-Scope  
+User Authentication (Sign-up/Login).  
+Task CRUD operations (Create, Read, Update, Delete).  
+Priority leveling and due-date assignments.  
+Category/Project grouping.  
+Search and filter functionality.  
+Out-of-Scope  
+Real-time collaborative editing (Phase 2).  
+Third-party calendar integrations (Google/Outlook).  
 Native mobile applications (iOS/Android).  
 **4. Stakeholders**  
-Role
-Responsibility
- 
-Project Manager
-Project planning, documentation, and milestone tracking.
-Development Team
-Software architecture, coding, and unit testing.
-End Users
-Beta testing and providing feedback on usability.
+Role. Responsibility  
+Project Manager. Project planning, documentation, and milestone tracking.  
+Development Team. Software architecture, coding, and unit testing.  
+End Users. Beta testing and providing feedback on usability.
 
 **5. Success Criteria**  
 Successful deployment of the MVP (Minimum Viable Product) to a cloud platform.
