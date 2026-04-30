@@ -17,18 +17,18 @@ Users must be able to create an account via email and password.
 Users must be able to log in securely and maintain a session.
 Password reset functionality via email.  
 **3.2 Task Management (Core CRUD)**  
-Feature ID
-Requirement Description
-Priority
+Feature ID,
+Requirement Description,
+Priority  
 FR-01
 Create a task with a title, description, and due date.
-Must Have
+Must Have,  
 FR-02
 Assign Priority Levels (Low, Medium, High).
-Must Have
+Must Have,  
 FR-03
 Edit or Delete existing tasks.
-Must Have
+Must Have,  
 FR-04
 Search tasks by keyword in the title.
 Should Have  
